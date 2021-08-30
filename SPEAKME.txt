@@ -1,0 +1,3 @@
+its a text file
+and its adding to main branch as 3rd file
+third line as empty
